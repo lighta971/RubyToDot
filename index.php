@@ -27,7 +27,7 @@ $classes = $matches[1];
 $classRelations = array_fill_keys($classes, []);
 
 $graph = new Alom\Graphviz\Digraph('G');
-echo "<pre>";
+// echo "<pre>";
 
 $lines = explode("\n", $input);
 $currentClass = "";
