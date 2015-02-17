@@ -1,5 +1,5 @@
 {
     "require": {
-        "clue/graph-uml": "0.2.*"
+        "alom/graphviz": "~1.0@dev"
     }
 }
